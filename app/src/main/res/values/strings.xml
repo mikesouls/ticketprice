@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ticketprice</string>
+    <string name="textTitle">Ticket Master</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">Find the Cost</string>
+    <string name="number_of_tickets">Number of Tickets</string>
+    <string-array name="listOfChoices">
+        <item>Beatles</item>
+        <item>Weezer</item>
+        <item>Green Day</item>
+    </string-array>
+</resources>
